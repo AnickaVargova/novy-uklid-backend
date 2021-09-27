@@ -202,6 +202,20 @@ const cinnostiTyden = [
     who: undefined as unknown,
     tyden: true,
   },
+  {
+    name: "Posekat trávu vlevo",
+    time: 60,
+    completed: false,
+    who: undefined as unknown,
+    tyden: true,
+  },
+  {
+    name: "Posekat trávu vpravo",
+    time: 60,
+    completed: false,
+    who: undefined as unknown,
+    tyden: true,
+  },
 ];
 
 export default cinnostiTyden;
